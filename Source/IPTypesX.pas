@@ -24,7 +24,7 @@ unit IPTypesX;
 interface
 
 uses
-  Classes, SysUtils, StrUtils, Windows, Math;
+  Classes, SysUtils, StrUtils, Math;
 
 const
   IPv4BitSize = SizeOf(Byte) * 4 * 8;
